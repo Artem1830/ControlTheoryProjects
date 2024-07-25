@@ -1,0 +1,12 @@
+# Simulink Cache
+*.slxc
+
+# MATLAB script autosave file
+*.asv 
+
+# Simulink Cache directories
+slprj/
+
+# Other file types
+*.tmp
+*.docx
